@@ -1,4 +1,4 @@
-#n Olimpia's 24th Birthday Party Code Repository 🥳🎂
+# Olimpia's 24th Birthday Party Code Repository 🥳🎂
 
 Welcome to the official codebase for the Olimpia's 24th birthday party! Whether you're here to contribute, set up the party for someone else, or just curious about how the magic happens, you're in the right place.
 
